@@ -1,0 +1,4 @@
+
+Python is easy.
+Python is useful.
+I love Python.
